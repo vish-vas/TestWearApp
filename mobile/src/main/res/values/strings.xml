@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestWearApp</string>
+    <string name="request_departures">departures</string>
+    <string name="request_routes">routes</string>
+    <string name="request_stops">stops</string>
+    <string name="request_direction">direction</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
