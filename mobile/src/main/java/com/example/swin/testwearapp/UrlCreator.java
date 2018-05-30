@@ -15,8 +15,8 @@ import javax.crypto.Mac;
 
 public class UrlCreator
 {
-    final int DEVELOPER_ID = 1000667;
-    final String SECURITY_KEY = "badecc32-c54b-11e5-a65e-029db85e733b";
+    final int DEVELOPER_ID = 1000;
+    final String SECURITY_KEY = "key";
     final String BASE_URL = "https://timetableapi.ptv.vic.gov.au";
     final String route_type = "3"; //route_type "3" means vline transport.
     final SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd'T'HH'%3A'mm'%3A'ss'Z'");
